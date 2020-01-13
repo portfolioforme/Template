@@ -1,4 +1,4 @@
-Codebase of my web personal [web site](http://jeromelachaud.com/)
+Branch for demo purposes only.
 
 #### Do not use it for your projects
 
