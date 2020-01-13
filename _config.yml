@@ -1,8 +1,7 @@
 # Site settings
 title: Your Name
 email: portfolioforme@protonmail.com
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://portfolioforme.github.io/template" # the base hostname & protocol for your site
+url: "https://portfolioforme.github.io/template"
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
@@ -41,6 +40,12 @@ color:
 #primary-rgb: "24,288,156" #"128,179,255"
 #secondary: 2c3e50 #FD6E8A
 #secondary-dark: 233140 #A2122F
+
+#color:
+  #primary: 28283c #18bc9c #80B3FF
+  #primary-rgb: "40,40,60" #"24,288,156" #"128,179,255"
+  #secondary: 2c3e50 #FD6E8A
+  #secondary-dark: 233140 #A2122F
 
 # Footer settings
 footer:
