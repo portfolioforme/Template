@@ -1,5 +1,5 @@
 _site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-Gemfile.lock
+_sources/
+_config.yml
+_asset_bundler_cache
+node_modules
