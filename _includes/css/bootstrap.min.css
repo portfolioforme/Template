@@ -3201,7 +3201,7 @@ border-color:#{{ site.color.primary }
 
 .btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.active, .open>.dropdown-toggle.btn-success {
   color: #ffffff;
-  background-color: #{{ site.color.secondary }
+  background-color: #{{ site.color.secondary };
   border-color: #{{ site.color.secondary }
 }
 
